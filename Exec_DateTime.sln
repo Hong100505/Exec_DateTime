@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q1 計算三天後 DVD 應歸還時間", "Q1 計算三天後 DVD 應歸還時間\Q1 計算三天後 DVD 應歸還時間.csproj", "{CD6CEB2D-A054-4810-8DD8-91159578B6B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q2 計算圖書下個月歸還時間", "Q2 計算圖書下個月歸還時間\Q2 計算圖書下個月歸還時間.csproj", "{387F1999-568F-4396-9882-45836809CBF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q3 取得本月一日", "Q3 取得本月一日\Q3 取得本月一日.csproj", "{CF2D86B4-4AE6-4C1D-B2CF-170A74956276}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q4 取得本月最後一天", "Q4 取得本月最後一天\Q4 取得本月最後一天.csproj", "{E6A04759-EDD1-4F21-8458-0B6CACBB29A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q5 列出指定年份的每一個星期日", "Q5 列出指定年份的每一個星期日\Q5 列出指定年份的每一個星期日.csproj", "{6A028960-1559-464E-9CB3-07EEDF1CA792}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q6 根據日期, 傳回今天是本月的上旬, 中旬或下旬", "Q6 根據日期, 傳回今天是本月的上旬, 中旬或下旬\Q6 根據日期, 傳回今天是本月的上旬, 中旬或下旬.csproj", "{E7ACD03E-8EA2-40A2-9C16-FD4D919E639C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q7 根據不同時間, 傳回不同問安方式", "Q7 根據不同時間, 傳回不同問安方式\Q7 根據不同時間, 傳回不同問安方式.csproj", "{E8AD3701-4924-40CE-BBD9-84D2893E6735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD6CEB2D-A054-4810-8DD8-91159578B6B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD6CEB2D-A054-4810-8DD8-91159578B6B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD6CEB2D-A054-4810-8DD8-91159578B6B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD6CEB2D-A054-4810-8DD8-91159578B6B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{387F1999-568F-4396-9882-45836809CBF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{387F1999-568F-4396-9882-45836809CBF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{387F1999-568F-4396-9882-45836809CBF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{387F1999-568F-4396-9882-45836809CBF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF2D86B4-4AE6-4C1D-B2CF-170A74956276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2D86B4-4AE6-4C1D-B2CF-170A74956276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2D86B4-4AE6-4C1D-B2CF-170A74956276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2D86B4-4AE6-4C1D-B2CF-170A74956276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6A04759-EDD1-4F21-8458-0B6CACBB29A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6A04759-EDD1-4F21-8458-0B6CACBB29A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6A04759-EDD1-4F21-8458-0B6CACBB29A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6A04759-EDD1-4F21-8458-0B6CACBB29A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A028960-1559-464E-9CB3-07EEDF1CA792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A028960-1559-464E-9CB3-07EEDF1CA792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A028960-1559-464E-9CB3-07EEDF1CA792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A028960-1559-464E-9CB3-07EEDF1CA792}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7ACD03E-8EA2-40A2-9C16-FD4D919E639C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7ACD03E-8EA2-40A2-9C16-FD4D919E639C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7ACD03E-8EA2-40A2-9C16-FD4D919E639C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7ACD03E-8EA2-40A2-9C16-FD4D919E639C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8AD3701-4924-40CE-BBD9-84D2893E6735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8AD3701-4924-40CE-BBD9-84D2893E6735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8AD3701-4924-40CE-BBD9-84D2893E6735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8AD3701-4924-40CE-BBD9-84D2893E6735}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76E70225-35E9-465F-A30F-8A16A8BC7983}
+	EndGlobalSection
+EndGlobal
